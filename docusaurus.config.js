@@ -154,7 +154,7 @@ const config = {
             position: "left",
             items: [
               {
-                label: "AI 绘图提示词",
+                label: "AI 绘图提示",
                 href: "https://prompt.aigc369.com/",
               },
             ],
