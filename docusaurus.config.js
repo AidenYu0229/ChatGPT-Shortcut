@@ -155,27 +155,7 @@ const config = {
             items: [
               {
                 label: "IMGPrompt",
-                href: "https://prompt.newzone.top/",
-              },
-              {
-                label: "文字处理",
-                href: "https://tools.newzone.top/json-translate",
-              },
-              {
-                label: "工具收藏",
-                href: "https://nav.newzone.top",
-              },
-              {
-                label: "Chrome 扩展",
-                href: "https://chrome.google.com/webstore/detail/chatgpt-shortcut/blcgeoojgdpodnmnhfpohphdhfncblnj",
-              },
-              {
-                label: "Edge 扩展",
-                href: "https://microsoftedge.microsoft.com/addons/detail/chatgpt-shortcut/hnggpalhfjmdhhmgfjpmhlfilnbmjoin",
-              },
-              {
-                label: "Find on Product Hunt",
-                href: "https://www.producthunt.com/posts/chatgpt-shortcut?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-chatgpt&#0045;shortcut",
+                href: "11",
               },
             ],
           },
@@ -185,16 +165,12 @@ const config = {
             position: "left",
             items: [
               {
-                label: "📝 提交反馈",
-                to: "/feedback",
-              },
-              {
                 label: "💬 微信交流",
-                href: "https://img.newzone.top/wechat.svg",
+                href: "",
               },
               {
                 label: "📧 发送邮件",
-                href: "mailto:learndata@newzone.top",
+                href: "mailto:",
               },
             ],
           },
