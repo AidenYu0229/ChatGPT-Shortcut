@@ -2,9 +2,9 @@
 slug: /
 ---
 
-# GPT Prompt 介绍
+# AI 提示词 介绍
 
-GPT Prompt 提供一份简洁易用的 AI 指令列表，即使不了解提示词知识，也可以轻松地通过筛选和查询找到适合各种场景的提示词，从而提升你的生产力。
+AI 提示词 提供一份简洁易用的 AI 指令列表，即使不了解提示词知识，也可以轻松地通过筛选和查询找到适合各种场景的提示词，从而提升你的生产力。
 
 🚀 **一键提示词**：只需一键，即可获取由专家精选的各种提示词，发送给 ChatGPT 等 AI 语言模型，即可获得预期输出。
 
@@ -18,13 +18,13 @@ GPT Prompt 提供一份简洁易用的 AI 指令列表，即使不了解提示�
 
 🗳️ **社区投票系统**：与 Product Hunt 或 Reddit 类似，平台由社区驱动，最佳提示词将推送至首页。
 
-📦 **开箱即用**：只需访问 https://1 ，即可开始使用。
+📦 **开箱即用**：只需访问 https://gptprompt.aigc369.com ，即可开始使用。
 
-GPT Prompt 的提示词来源包括网络精选、社区分享以及 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)。
+AI 提示词 的提示词来源包括网络精选、社区分享以及 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)。
 
 
 ## 使用说明
 
 将提示词复制到 AI 对话模型中即可使用，以下是常用模型链接：
 
-- AI全模型国内版：https://new.aigc369.com/
+- AI全模型国内版：https://new.aigc369.com
