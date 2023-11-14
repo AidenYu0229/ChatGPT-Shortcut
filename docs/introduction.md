@@ -20,7 +20,7 @@ AI Prompt 提供一份简洁易用的 AI 指令列表，即使不了解提示词
 
 📦 **开箱即用**：只需访问 https://gptprompt.aigc369.com ，即可开始使用。
 
-AI Prompt 的提示词来源包括网络精选、社区分享以及 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)。
+AI Prompt 的提示词来源包括网络精选、社区分享以及 [AI知识库](https://ssw9noe1h6.feishu.cn/wiki/wikcn59pPXfAiF1ONajdPzvhA9d)。
 
 
 ## 使用说明
