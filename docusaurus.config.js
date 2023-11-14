@@ -155,7 +155,7 @@ const config = {
             items: [
               {
                 label: "AI 绘图提示词",
-                href: "https://prompt.aigc369.com/",
+                href: "https://tishi.aigc147.com",
               },
             ],
           },
