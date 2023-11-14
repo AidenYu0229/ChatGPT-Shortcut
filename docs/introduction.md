@@ -20,7 +20,7 @@ GPT Prompt 提供一份简洁易用的 AI 指令列表，即使不了解提示�
 
 📦 **开箱即用**：只需访问 https://1 ，即可开始使用。
 
-AiShort 的提示词来源包括网络精选、社区分享以及 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)。
+GPT Prompt 的提示词来源包括网络精选、社区分享以及 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)。
 
 
 ## 使用说明
