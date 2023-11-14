@@ -154,8 +154,8 @@ const config = {
             position: "left",
             items: [
               {
-                label: "IMGPrompt",
-                href: "https://openai.com/",
+                label: "AI 绘图提示词",
+                href: "https://prompt.aigc369.com/",
               },
             ],
           },
