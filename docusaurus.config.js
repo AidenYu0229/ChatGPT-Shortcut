@@ -196,23 +196,10 @@ const config = {
                 label: "📧 发送邮件",
                 href: "mailto:learndata@newzone.top",
               },
-              {
-                label: "📺 加入 Discord",
-                href: "https://discord.gg/PZTQfJ4GjX",
-              },
             ],
           },
           { type: "localeDropdown", position: "right" },
-          {
-            href: "https://github.com/rockbenben/ChatGPT-Shortcut",
-            position: "right",
-            className: "header-github-link",
-          },
-          {
-            href: "https://discord.gg/PZTQfJ4GjX",
-            position: "right",
-            className: "header-discord-link",
-          },
+
         ],
       },
       footer: {
