@@ -20,11 +20,11 @@ AI Prompt 提供一份简洁易用的 AI 指令列表，即使不了解提示词
 
 📦 **开箱即用**：只需访问 https://gpttishi.aigc147.com ，即可开始使用。
 
-AI Prompt 的提示词来源包括网络精选、社区分享以及 [AI知识库](https://ssw9noe1h6.feishu.cn/wiki/wikcn59pPXfAiF1ONajdPzvhA9d)。
+AI Prompt 的提示词来源包括网络精选、社区分享以及 [AI知识库](https://qal91ffytmo.feishu.cn/wiki/OquewGI5AizvKhkw12Wcq0dqnVc)。
 
 
 ## 使用说明
 
 将提示词复制到 AI 对话模型中即可使用，以下是常用模型链接：
 
-- AI全模型国内版：https://new.aigc369.com
+- AI全模型国内版：https://hi.aigc147.com
