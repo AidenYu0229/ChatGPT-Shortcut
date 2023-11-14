@@ -165,8 +165,8 @@ const config = {
             position: "left",
             items: [
               {
-                label: "💬 微信交流",
-                href: "https://openai.com/",
+                label: "💬 QQ频道",
+                href: "https://pd.qq.com/s/43ts2mp9l",
               },
               {
                 label: "📧 发送邮件",
