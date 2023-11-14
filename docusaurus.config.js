@@ -166,11 +166,11 @@ const config = {
             items: [
               {
                 label: "💬 微信交流",
-                href: "",
+                href: "https://openai.com/",
               },
               {
                 label: "📧 发送邮件",
-                href: "mailto:",
+                href: "mailto:admin@aigc369.com",
               },
             ],
           },
