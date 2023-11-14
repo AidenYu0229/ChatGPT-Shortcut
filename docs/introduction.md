@@ -2,9 +2,9 @@
 slug: /
 ---
 
-# AI 提示词 介绍
+# AI Prompt 介绍
 
-AI 提示词 提供一份简洁易用的 AI 指令列表，即使不了解提示词知识，也可以轻松地通过筛选和查询找到适合各种场景的提示词，从而提升你的生产力。
+AI Prompt 提供一份简洁易用的 AI 指令列表，即使不了解提示词知识，也可以轻松地通过筛选和查询找到适合各种场景的提示词，从而提升你的生产力。
 
 🚀 **一键提示词**：只需一键，即可获取由专家精选的各种提示词，发送给 ChatGPT 等 AI 语言模型，即可获得预期输出。
 
@@ -20,7 +20,7 @@ AI 提示词 提供一份简洁易用的 AI 指令列表，即使不了解提示
 
 📦 **开箱即用**：只需访问 https://gptprompt.aigc369.com ，即可开始使用。
 
-AI 提示词 的提示词来源包括网络精选、社区分享以及 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)。
+AI Prompt 的提示词来源包括网络精选、社区分享以及 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)。
 
 
 ## 使用说明
