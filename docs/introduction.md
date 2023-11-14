@@ -18,7 +18,7 @@ AI Prompt 提供一份简洁易用的 AI 指令列表，即使不了解提示词
 
 🗳️ **社区投票系统**：与 Product Hunt 或 Reddit 类似，平台由社区驱动，最佳提示词将推送至首页。
 
-📦 **开箱即用**：只需访问 https://gptprompt.aigc369.com ，即可开始使用。
+📦 **开箱即用**：只需访问 https://gpttishi.aigc147.com ，即可开始使用。
 
 AI Prompt 的提示词来源包括网络精选、社区分享以及 [AI知识库](https://ssw9noe1h6.feishu.cn/wiki/wikcn59pPXfAiF1ONajdPzvhA9d)。
 
